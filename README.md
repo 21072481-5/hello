@@ -1,2 +1,2 @@
 # hello
-Este repositório é para praticar o fluxo do GitHub.
+Prática de GitHub para atividade mapa.
